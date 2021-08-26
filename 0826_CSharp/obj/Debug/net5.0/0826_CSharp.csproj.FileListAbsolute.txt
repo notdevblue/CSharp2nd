@@ -1,0 +1,16 @@
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp.deps.json
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp.runtimeconfig.json
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp.runtimeconfig.dev.json
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp.dll
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/ref/0826_CSharp.dll
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/bin/Debug/net5.0/0826_CSharp.pdb
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.csproj.AssemblyReference.cache
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.AssemblyInfoInputs.cache
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.AssemblyInfo.cs
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.csproj.CoreCompileInputs.cache
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.dll
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/ref/0826_CSharp.dll
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.pdb
+/home/han/문서/CSharp Project/CSharp2nd/0826_CSharp/obj/Debug/net5.0/0826_CSharp.genruntimeconfig.cache
