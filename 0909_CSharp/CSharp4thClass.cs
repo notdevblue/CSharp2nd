@@ -35,7 +35,7 @@ namespace CSharp4thClass
         public delegate int MyDelegate(string str);
         
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // int a = 0; // (형식) (이름) = (값)
             // System.Console.WriteLine(a);
