@@ -1,0 +1,16 @@
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp.deps.json
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp.runtimeconfig.json
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp.runtimeconfig.dev.json
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp.dll
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/ref/0916_CSharp.dll
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/bin/Debug/net5.0/0916_CSharp.pdb
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.csprojAssemblyReference.cache
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.AssemblyInfoInputs.cache
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.AssemblyInfo.cs
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.csproj.CoreCompileInputs.cache
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.dll
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/ref/0916_CSharp.dll
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.pdb
+/home/han/Documents/CSharp/CSharp2nd/0916_CSharp/obj/Debug/net5.0/0916_CSharp.genruntimeconfig.cache
