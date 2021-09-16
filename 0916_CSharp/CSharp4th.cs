@@ -69,18 +69,25 @@ namespace CSharp4th
             public void DoSomething(int number)
             {
                 int temp = number % 10;
-                if(temp != 0 && temp % 3 == 0)
+                if (temp != 0 && temp % 3 == 0)
                 {
                     SomethingHappened(String.Format("{0} : 짝", number));
+                }
+                else
+                {
+                    SomethingHappened(String.Format("{0}", number));
                 }
             }
         }
 
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             MyNotifier myNotifier = new();
-            myNotifier.DoSomething(13);
+            myNotifier.SomethingHappened += (msg) => System.Console.WriteLine(msg);
+            for (int i = 0; i < 20; ++i)
+            {
+                myNotifier.DoSomething(i);
+            }
         }
-
     }
 }
