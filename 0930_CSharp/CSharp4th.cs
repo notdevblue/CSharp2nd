@@ -23,7 +23,7 @@ namespace CSharp4th
         //     System.Console.WriteLine($"func() : {func()}"); 
         // }
 
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             List<int> input = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             // List<int> output = new List<int>();
